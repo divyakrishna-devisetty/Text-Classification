@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\Ajitkumar\\Desktop\\DK\\malware\\project\\spam_review_tf\\runs\\1524447709\\checkpoints\\model-2000"
+all_model_checkpoint_paths: "C:\\Users\\Ajitkumar\\Desktop\\DK\\malware\\project\\spam_review_tf\\runs\\1524447709\\checkpoints\\model-1600"
+all_model_checkpoint_paths: "C:\\Users\\Ajitkumar\\Desktop\\DK\\malware\\project\\spam_review_tf\\runs\\1524447709\\checkpoints\\model-1700"
+all_model_checkpoint_paths: "C:\\Users\\Ajitkumar\\Desktop\\DK\\malware\\project\\spam_review_tf\\runs\\1524447709\\checkpoints\\model-1800"
+all_model_checkpoint_paths: "C:\\Users\\Ajitkumar\\Desktop\\DK\\malware\\project\\spam_review_tf\\runs\\1524447709\\checkpoints\\model-1900"
+all_model_checkpoint_paths: "C:\\Users\\Ajitkumar\\Desktop\\DK\\malware\\project\\spam_review_tf\\runs\\1524447709\\checkpoints\\model-2000"
